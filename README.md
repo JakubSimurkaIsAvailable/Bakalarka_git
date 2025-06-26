@@ -1,0 +1,1 @@
+This is my bachelor's degree work, I analyzed the current state of detection and segmentation algorithms which focus on people and their heads, the code I used alongside some excel spreadsheets with my results is in this repo
